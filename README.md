@@ -40,7 +40,12 @@ dbeaver/cloudbeaver:24.1.2
 
 ![image](https://github.com/user-attachments/assets/e820dcf9-3f29-4bf0-af11-6f59109d3271)
 
-Na opção Environment, adicione credwencial
+Na opção Environment, adicione credencial
+
+```bash
+CB_ADMIN_NAME=admin
+CB_ADMIN_PASSWORD=admin
+```
 
 ![image](https://github.com/user-attachments/assets/9d2c5f4f-9fbb-4d6e-98cf-145f43c335f4)
 
