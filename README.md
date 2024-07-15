@@ -53,6 +53,11 @@ Na opção advanced, adicione a porta Clique me salvar
 
 ![image](https://github.com/user-attachments/assets/a121076f-6016-4743-8da9-513701070511)
 
+Adicione porta em seu dominio
+
+![image](https://github.com/user-attachments/assets/95af110d-d0ff-472c-8345-8e83942c38c7)
+
+
 
 ![image](https://github.com/user-attachments/assets/e84ce611-1b4c-465e-93e1-ddebca75ebd9)
 
